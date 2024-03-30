@@ -1,1 +1,1 @@
--	Hello everyone, I am ethan-clam, but please call me Ethan!
+-	Hello everyone, I am gannhiro! I like programming mobile/web apps, right now i am obsessed with react native!
